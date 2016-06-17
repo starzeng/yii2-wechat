@@ -1,0 +1,21 @@
+{
+    "name": "starzeng/yii2-wechat",
+    "description": "Based on Yii2 WeChat SDK for service, enterprise, subscription ",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","wechat"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "starzeng",
+            "email": "1369866181@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "starzeng\\wechat\\": ""
+        }
+    }
+}
