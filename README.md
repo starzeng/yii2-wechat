@@ -29,3 +29,5 @@ Once the extension is installed, simply use it in your code by  :
 
 ```php
 <?= \starzeng\wechat\AutoloadExample::widget(); ?>```
+# yii2-wechat
+Base on Yii2 Wechat SDK
